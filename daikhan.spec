@@ -13,6 +13,7 @@ BuildRequires:  pkgconfig(gstreamer-1.0)
 BuildRequires:  pkgconfig(gstreamer-tag-1.0)
 BuildRequires:  pkgconfig(libxxhash)
 BuildRequires:  pkgconfig(gtk4)
+BuildRequires:  pkgconfig(vapigen)
 
 %description
 A media player for the modern desktop.
